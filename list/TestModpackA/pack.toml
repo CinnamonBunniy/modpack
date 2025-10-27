@@ -1,0 +1,13 @@
+name = "Test Modpack A"
+author = "CinnamonBunniy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1c8cedf1ad826ca38c23a4ba3f8c97d453fa977acad1f2c842381187a1c28191"
+
+[versions]
+minecraft = "1.21.1"
+quilt = "0.29.3-beta.1"
