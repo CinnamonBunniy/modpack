@@ -1,3 +1,6 @@
 [submodule "list/TestModpackA"]
 	path = list/TestModpackA
 	url = https://github.com/CinnamonBunniy/TestModpackA.git
+[submodule "utils/modpack-setup-util"]
+	path = utils/modpack-setup-util
+	url = https://github.com/CinnamonBunniy/modpack-setup-util
