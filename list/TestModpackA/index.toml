@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "a183f3bbe314073823a7a21aa62db21f217448e60d970ab87c0aabe860843318"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "ddc951666b9b867b0ff7671865a33f15adb5331f3d7c8bc179e0ec86795e020f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -74,3 +83,22 @@ metafile = true
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
+
+[[files]]
+file = "mods/villages-and-pillages.pw.toml"
+hash = "42dd932c3572845d71a749cfd1cd09e3e6d32385b7771d01fdc5f2e187d8823c"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "e8cc2ff5dcd14a2c92fe4059e1f613aefef9358ca9259345e1e319f0bdc5054f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
+metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "12ebcf7c69945ae0fa4f0bded47d60b945aaf99122649de96d62861a9751e08d"
