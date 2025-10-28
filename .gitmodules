@@ -1,0 +1,3 @@
+[submodule "list/TestModpackA"]
+	path = list/TestModpackA
+	url = https://github.com/CinnamonBunniy/TestModpackA.git
