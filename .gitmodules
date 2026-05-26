@@ -1,3 +1,7 @@
 [submodule "list/TestModpackA"]
 	path = list/TestModpackA
 	url = https://github.com/CinnamonBunniy/TestModpackA
+[submodule "list/modpack-origami"]
+	path = list/modpack-origami
+	url = https://github.com/CinnamonBunniy/modpack-origami.git
+	branch = main
