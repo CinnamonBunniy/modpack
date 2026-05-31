@@ -2,10 +2,9 @@
 
 ## To-do list
 - [x] Example TestModpackA listing.
-- [ ] Make a utility script, shell or Python, to semi-auto setup modpack-util-thing for PrismLauncher and Vanilla Minecraft Launcher.
+- [ ] Have fun! 🥳🎮
 
 ## Modpacks Current List
 - TestModpackA, <https://cinnamonbunniy.github.io/modpack/list/TestModpackA>
+- Origami, <https://cinnamonbunniy.github.io/modpack/list/modpack-origami>
 
-
--# modpack versioning meta-info
